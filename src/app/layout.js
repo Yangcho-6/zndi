@@ -1,4 +1,5 @@
 import './globals.css'
+import Link from 'next/link'
 
 export const metadata = {
   title: 'Zandi | Personal Blog',
@@ -11,9 +12,10 @@ export default function RootLayout({ children }) {
       <body>
         <header>
           <nav className="glass">
-            <a href="/" className="logo">ZANDI</a>
+            <Link href="/" className="logo">ZANDI</Link>
             <div className="nav-links">
-              {/* Optional links like About, etc. */}
+              <Link href="/">Home</Link>
+              <Link href="/about">About</Link>
             </div>
           </nav>
         </header>
