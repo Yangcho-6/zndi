@@ -1,6 +1,6 @@
 ---
 title: '1. VS Code란 무엇인가?'
-date: '2026-04-01'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 1번째 시간: VS Code란 무엇인가?에 대해 알아봅니다.'
 ---
 

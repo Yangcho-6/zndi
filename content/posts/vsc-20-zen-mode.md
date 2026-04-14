@@ -1,6 +1,6 @@
 ---
 title: '20. 몰입을 위한 Zen 모드'
-date: '2026-04-20'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 20번째 시간: 몰입을 위한 Zen 모드에 대해 알아봅니다.'
 ---
 

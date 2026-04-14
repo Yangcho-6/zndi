@@ -1,6 +1,6 @@
 ---
 title: '21. 단축키(Shortcuts) 마스터 플랜'
-date: '2026-04-21'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 21번째 시간: 단축키(Shortcuts) 마스터 플랜에 대해 알아봅니다.'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: '47. keybindings.json 커스터마이징'
-date: '2026-05-17'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 47번째 시간: keybindings.json 커스터마이징에 대해 알아봅니다.'
 ---
 

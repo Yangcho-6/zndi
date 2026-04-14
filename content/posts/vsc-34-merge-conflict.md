@@ -1,6 +1,6 @@
 ---
 title: '34. 병합 충돌(Merge Conflict) 해결'
-date: '2026-05-04'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 34번째 시간: 병합 충돌(Merge Conflict) 해결에 대해 알아봅니다.'
 ---
 

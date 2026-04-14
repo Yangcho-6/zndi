@@ -1,6 +1,6 @@
 ---
 title: '16. 코드 포맷팅(Formatting) 알아보기'
-date: '2026-04-16'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 16번째 시간: 코드 포맷팅(Formatting) 알아보기에 대해 알아봅니다.'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: '9. 핵심 설정(Settings) 마스터하기'
-date: '2026-04-09'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 9번째 시간: 핵심 설정(Settings) 마스터하기에 대해 알아봅니다.'
 ---
 

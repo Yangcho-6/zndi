@@ -1,6 +1,6 @@
 ---
 title: '44. Live Share로 협업하기'
-date: '2026-05-14'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 44번째 시간: Live Share로 협업하기에 대해 알아봅니다.'
 ---
 

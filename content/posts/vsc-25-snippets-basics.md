@@ -1,6 +1,6 @@
 ---
 title: '25. 코드 스니펫(Snippets) 사용하기'
-date: '2026-04-25'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 25번째 시간: 코드 스니펫(Snippets) 사용하기에 대해 알아봅니다.'
 ---
 

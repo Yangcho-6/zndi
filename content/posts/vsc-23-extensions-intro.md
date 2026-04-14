@@ -1,6 +1,6 @@
 ---
 title: '23. 확장 프로그램(Extensions) 설치법'
-date: '2026-04-23'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 23번째 시간: 확장 프로그램(Extensions) 설치법에 대해 알아봅니다.'
 ---
 

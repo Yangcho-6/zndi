@@ -1,6 +1,6 @@
 ---
 title: '41. HTML/CSS 생산성 향상 팁'
-date: '2026-05-11'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 41번째 시간: HTML/CSS 생산성 향상 팁에 대해 알아봅니다.'
 ---
 

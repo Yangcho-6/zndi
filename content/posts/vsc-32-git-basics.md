@@ -1,6 +1,6 @@
 ---
 title: '32. Git 소스 제어 기초'
-date: '2026-05-02'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 32번째 시간: Git 소스 제어 기초에 대해 알아봅니다.'
 ---
 

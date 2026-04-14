@@ -1,6 +1,6 @@
 ---
 title: '35. 디버깅(Debugging) 입문'
-date: '2026-05-05'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 35번째 시간: 디버깅(Debugging) 입문에 대해 알아봅니다.'
 ---
 

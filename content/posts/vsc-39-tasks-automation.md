@@ -1,6 +1,6 @@
 ---
 title: '39. 작업(Tasks) 자동화'
-date: '2026-05-09'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 39번째 시간: 작업(Tasks) 자동화에 대해 알아봅니다.'
 ---
 

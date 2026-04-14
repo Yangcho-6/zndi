@@ -1,6 +1,6 @@
 ---
 title: '13. 멀티 커서(Multi-cursor)의 마법'
-date: '2026-04-13'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 13번째 시간: 멀티 커서(Multi-cursor)의 마법에 대해 알아봅니다.'
 ---
 

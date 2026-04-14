@@ -1,6 +1,6 @@
 ---
 title: '40. Prettier와 ESLint 설정'
-date: '2026-05-10'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 40번째 시간: Prettier와 ESLint 설정에 대해 알아봅니다.'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: '26. Emmet 기초: HTML 초고속 작성'
-date: '2026-04-26'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 26번째 시간: Emmet 기초: HTML 초고속 작성에 대해 알아봅니다.'
 ---
 

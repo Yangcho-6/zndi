@@ -1,6 +1,6 @@
 ---
 title: '36. 실행 구성(Launch Configurations)'
-date: '2026-05-06'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 36번째 시간: 실행 구성(Launch Configurations)에 대해 알아봅니다.'
 ---
 

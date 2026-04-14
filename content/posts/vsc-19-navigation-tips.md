@@ -1,6 +1,6 @@
 ---
 title: '19. 미니맵과 이동(Navigation) 팁'
-date: '2026-04-19'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 19번째 시간: 미니맵과 이동(Navigation) 팁에 대해 알아봅니다.'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: '33. 파일 변경 사항 비교(Diff)'
-date: '2026-05-03'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 33번째 시간: 파일 변경 사항 비교(Diff)에 대해 알아봅니다.'
 ---
 

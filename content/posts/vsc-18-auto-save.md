@@ -1,6 +1,6 @@
 ---
 title: '18. 자동 저장(Auto-save)의 편리함'
-date: '2026-04-18'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 18번째 시간: 자동 저장(Auto-save)의 편리함에 대해 알아봅니다.'
 ---
 

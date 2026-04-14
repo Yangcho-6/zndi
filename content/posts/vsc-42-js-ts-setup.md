@@ -1,6 +1,6 @@
 ---
 title: '42. JS/TS 개발 환경 구축'
-date: '2026-05-12'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 42번째 시간: JS/TS 개발 환경 구축에 대해 알아봅니다.'
 ---
 

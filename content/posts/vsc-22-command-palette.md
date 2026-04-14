@@ -1,6 +1,6 @@
 ---
 title: '22. 커맨드 팔레트(Command Palette) 활용'
-date: '2026-04-22'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 22번째 시간: 커맨드 팔레트(Command Palette) 활용에 대해 알아봅니다.'
 ---
 

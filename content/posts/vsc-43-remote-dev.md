@@ -1,6 +1,6 @@
 ---
 title: '43. 원격 개발(SSH/WSL)'
-date: '2026-05-13'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 43번째 시간: 원격 개발(SSH/WSL)에 대해 알아봅니다.'
 ---
 

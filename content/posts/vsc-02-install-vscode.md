@@ -1,6 +1,6 @@
 ---
 title: '2. VS Code 설치하기 (Windows/Mac)'
-date: '2026-04-02'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 2번째 시간: VS Code 설치하기 (Windows/Mac)에 대해 알아봅니다.'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: '10. 설정 동기화(Settings Sync)'
-date: '2026-04-10'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 10번째 시간: 설정 동기화(Settings Sync)에 대해 알아봅니다.'
 ---
 

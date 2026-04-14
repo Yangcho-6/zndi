@@ -1,6 +1,6 @@
 ---
 title: '28. 심볼(Symbols) 찾아가기'
-date: '2026-04-28'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 28번째 시간: 심볼(Symbols) 찾아가기에 대해 알아봅니다.'
 ---
 

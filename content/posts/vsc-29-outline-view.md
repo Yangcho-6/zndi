@@ -1,6 +1,6 @@
 ---
 title: '29. 계층 구조(Outline) 보기'
-date: '2026-04-29'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 29번째 시간: 계층 구조(Outline) 보기에 대해 알아봅니다.'
 ---
 

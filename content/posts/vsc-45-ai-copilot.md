@@ -1,6 +1,6 @@
 ---
 title: '45. AI 코딩 보조(Copilot) 활용'
-date: '2026-05-15'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 45번째 시간: AI 코딩 보조(Copilot) 활용에 대해 알아봅니다.'
 ---
 

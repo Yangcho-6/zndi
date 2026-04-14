@@ -1,6 +1,6 @@
 ---
 title: '27. IntelliSense와 자동 완성'
-date: '2026-04-27'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 27번째 시간: IntelliSense와 자동 완성에 대해 알아봅니다.'
 ---
 

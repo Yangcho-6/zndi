@@ -1,6 +1,6 @@
 ---
 title: '46. 워크벤치(Workbench) 사용자 정의'
-date: '2026-05-16'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 46번째 시간: 워크벤치(Workbench) 사용자 정의에 대해 알아봅니다.'
 ---
 

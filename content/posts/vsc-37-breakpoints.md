@@ -1,6 +1,6 @@
 ---
 title: '37. 중단점(Breakpoints) 활용'
-date: '2026-05-07'
+date: '2026-04-14'
 excerpt: 'Visual Studio Code 강의 37번째 시간: 중단점(Breakpoints) 활용에 대해 알아봅니다.'
 ---
 
