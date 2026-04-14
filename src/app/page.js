@@ -1,6 +1,5 @@
 import { getSortedPostsData } from '@/lib/posts';
 import Link from 'next/link';
-import Image from 'next/image';
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
@@ -117,7 +116,7 @@ export default function Home() {
         </div>
         <div className="relative z-10 flex flex-col gap-3 max-w-sm mx-auto">
           <input className="w-full px-6 py-4 bg-surface-container-lowest rounded-full border-none focus:ring-2 focus:ring-primary-container text-sm" placeholder="이메일 주소를 입력하세요" type="email"/>
-          <button className="w-full py-4 bg-primary text-on-primary font-bold rounded-full hover:scale-102 transition-transform">구독 시작</button>
+            <button className="w-full py-4 bg-primary text-on-primary font-bold rounded-full hover:scale-105 transition-transform">구독 시작</button>
         </div>
       </section>
     </div>
